@@ -20,3 +20,4 @@ public class Mage extends Unit {
         System.out.println("Mage’s mana = " + mana);
     }
 }
+
